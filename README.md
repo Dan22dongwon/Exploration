@@ -1,7 +1,7 @@
 # Code Peer Review Templete
 
-- 코더 : 신노아
-- 리뷰어 : 박동원
+- 코더 : 박동원
+- 리뷰어 : 신노아 
 
 ---
 
